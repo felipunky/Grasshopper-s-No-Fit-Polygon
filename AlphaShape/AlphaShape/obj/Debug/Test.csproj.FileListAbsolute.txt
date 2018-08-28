@@ -1,0 +1,8 @@
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\bin\Debug\AlphaShape.dll
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\bin\Debug\AlphaShape.pdb
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\obj\Debug\AlphaShape.dll
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\obj\Debug\AlphaShape.pdb
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\bin\Debug\Surface .dll
+D:\Programas\GrasshopperPlugins\AlphaShape\AlphaShape\bin\Debug\Curve.dll
